@@ -14,7 +14,7 @@
 - CentOS
 - Manjaro
 - LXLE
--Arch
+- Arch
 
 
 ## directory tree
